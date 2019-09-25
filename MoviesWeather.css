@@ -1,0 +1,47 @@
+li {
+    color: aquamarine;
+    background-color: darkblue;
+    border-color: gray;
+    border-style: double;
+    border-width: 3px, 10px;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    margin: -5px;
+    text-align: center; 
+    font-size: 1.2em;
+    font-family: Impact;
+    width:20%;
+    margin:auto;
+    outline-style: double; outline-width: .5em;
+}
+
+.weather-forecast {
+    text-align: center; 
+    font-family: Impact;
+}
+
+.forecast {
+    background-color: lightblue; 
+    padding: 2em;
+    margin: 2em; 
+    width: 10vh; 
+    height: 10vh; 
+    text-align: center; 
+    font-size: 1.2em;
+    font-family: Impact;
+    width: 10%;
+    height: 15%;
+    margin:auto;
+    outline-style: double ; outline-width: .5em;
+    justify-content: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body {background-image: url(http://ecooptimism.com/wp-content/uploads/2014/05/dayaftertomorrow.jpg);
+     background-repeat: repeat-y;background-size: cover;
+}

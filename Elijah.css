@@ -1,0 +1,37 @@
+:root {
+    --Main-Padding: .5em;
+}
+
+body {
+    padding: var(--Main-Padding);
+    background-image: url(https://corgiorgy.com/corgiswimflip.gif);
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Impact;
+}
+
+a:link {background-color: lightskyblue; color: purple}
+a:hover {color: red}
+a:active {color: teal}
+a:visited {color: yellow}
+
+ul {
+    color: rgb(7, 65, 112);
+    background-color: rgba(146, 146, 146, 0.3);
+    border-color: rgb(59, 59, 59);
+    border-style: double;
+    border-width: 3px, 10px;
+    text-align: left; 
+    font-size: 1.2em;
+    font-family: Impact;
+    width:20%;
+    margin:auto;
+}
+
+p {
+    color: rgb(7, 65, 112);
+    background-color: rgba(146, 146, 146, 0.3);
+    border-color: rgb(59, 59, 59);
+    border-style: double;
+    border-width: 3px, 10px;
+}

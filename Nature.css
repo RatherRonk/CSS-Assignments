@@ -1,0 +1,60 @@
+:root {
+    --Main-background-color: rgb(144, 238, 144); 
+}
+
+body {
+background-image: url(https://images.wallpaperscraft.com/image/wood_stream_water_moss_4612_1600x900.jpg);
+ background-repeat: repeat-y; background-size: cover;
+text-align: center; color: royalblue; 
+}
+
+h1 {
+    background-color: var(--Main-background-color); text-align: center; padding: 2%;
+     color: royalblue; font-family:'Times New Roman'; font-size: 4em; border-style: double; border-width: 3px, 10px;width:20%;
+     margin:auto; 
+     background-image: url(https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98378f4c-b873-4ad1-8990-cf757b59d296/nature-wallpaper12.jpg);
+}
+
+h2 {
+    background-color: rgba( 154, 205, 50, 0.75);
+}
+
+ul {
+    width:20%;
+    margin:auto;
+    border-style: double;
+    border-width: 3px, 10px;
+    text-align: left; 
+    font-size: 1.2em;
+    background-color: rgba(0, 255, 255, 0.75);
+    padding: .5em;
+}
+
+p {
+    width:20%;
+    margin:auto;
+    border-style: double;
+    border-width: 3px, 10px;
+    text-align: left; 
+    font-size: 1.2em;
+    background-color: rgba(0, 255, 255, 0.75);
+    padding: .5em; 
+}
+
+a:link {background-color: lightskyblue; color: purple; width:20%;
+    margin:auto;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    border-style: double;
+    border-width: 3px, 10px;
+    text-align: center; 
+    font-size: 1.0em;
+    background-color: rgba(0, 255, 255, 0.75);
+    white-space: normal;
+    }
+
+a:hover {color: red}
+a:active {color: teal}
+a:visited {color: yellow}
+
+}

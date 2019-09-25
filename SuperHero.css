@@ -1,0 +1,33 @@
+h1 
+{
+color:rgb(5, 5, 5);
+}
+
+
+
+#no1 {background-color:rgb(224, 224, 224);
+    opacity:0.7;
+color: rgb(187, 5, 5); 
+
+ border-color: black;
+ border-style: dotted;
+}
+.fancybullets {
+
+    list-style-type: upper-roman
+
+}
+#top  {background-image: url(http://www.teesnthings.com/ProductImages/superhero/punisher-t-shirts/white-skull-punisher-t-shirt.jpg);
+color: rgb(187, 5, 5)
+}
+  #bottom { color: rgb(16, 137, 207)
+}
+
+#no2 {background-color: rgb(224, 224, 224);
+    opacity:0.7;
+color: rgb(16, 137, 207);
+
+border-color: black;
+border-style: dotted;
+
+}

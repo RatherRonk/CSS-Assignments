@@ -1,0 +1,18 @@
+body { background-image: url(https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293_960_720.jpg); background-repeat: repeat-y;background-size: cover;
+color: rgb(4, 35, 121); text-align: center;
+}
+p {
+   text-align: center; 
+    font-size: 1.2em;}
+.weather-heading {font-family:Helvetica;}
+.forecast {color: maroon;}
+.weather-forecast {background-color: rgb(21, 199, 243);
+    width:20%;
+    margin:auto;
+outline-style: dashed; outline-width: .5em;
+}
+
+a:link {background-color: gold; color: indigo;}
+a:visited {color: orangered}
+a:active {color: turquoise}
+a:hover {color: lawngreen;}
